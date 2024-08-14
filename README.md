@@ -15,10 +15,12 @@
 
 - 📫 How to reach me **sistemas.martin.alvarez@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1BR2I02Ob8TT28sEism1NWgxOQSVaAbA7?usp=sharing](https://drive.google.com/drive/folders/1BR2I02Ob8TT28sEism1NWgxOQSVaAbA7?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/martin álvarez salazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin álvarez salazar" height="30" width="40" /></a>
-<a href="https://discord.gg/martin_alvarez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="martin_alvarez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mart%c3%adn-%c3%a1lvarez-salazar-324b982a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mart%c3%adn-%c3%a1lvarez-salazar-324b982a0/" height="30" width="40" /></a>
+<a href="https://discord.gg/H3Ht35umKJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="H3Ht35umKJ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ing-martin-alvarez&show_icons=true&locale=en" alt="ing-martin-alvarez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ing-martin-alvarez&" alt="ing-martin-alvarez" /></p>
-

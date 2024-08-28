@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Video game development, database management and web development**
 
-- 👯 I’m looking to collaborate on **Microsip**
+- 👯 I’m looking to collaborate on **SFM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ing-Martin-Alvarez?tab=repositories](https://github.com/Ing-Martin-Alvarez?tab=repositories)
 
